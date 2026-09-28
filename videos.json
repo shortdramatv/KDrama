@@ -24,7 +24,7 @@
       "movieType": "Korean Drama",
       "language": "Hindi",
       "createdAt": "2026-09-27T21:25:51.000Z",
-      "showOnHome": false
+      "showOnHome": true
     },
     {
       "id": "hYKDlC5gebncdHI0eiSe",
@@ -37,7 +37,7 @@
       "movieType": "Korean Drama",
       "language": "Hindi",
       "createdAt": "2026-09-27T21:25:50.000Z",
-      "showOnHome": false
+      "showOnHome": true
     },
     {
       "id": "7G2rwzHUevN8ivm0XJoW",
@@ -50,7 +50,7 @@
       "movieType": "Korean Drama",
       "language": "Hindi",
       "createdAt": "2026-09-27T21:25:49.000Z",
-      "showOnHome": false
+      "showOnHome": true
     },
     {
       "id": "np0mnZ3ujPXpiNf1wepj",
@@ -63,7 +63,7 @@
       "movieType": "Korean Drama",
       "language": "Hindi",
       "createdAt": "2026-09-27T21:25:48.000Z",
-      "showOnHome": false
+      "showOnHome": true
     },
     {
       "id": "D2vjtqPKv4tJWcIJewcm",
@@ -76,7 +76,7 @@
       "movieType": "Korean Drama",
       "language": "Hindi",
       "createdAt": "2026-09-27T21:25:47.000Z",
-      "showOnHome": false
+      "showOnHome": true
     },
     {
       "id": "uZVRzaj2vMxQx1kE4Kk9",
