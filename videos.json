@@ -699,8 +699,8 @@
       "categoryIcon": "https://img.youtube.com/vi/yvDPMEN7jOI/maxresdefault.jpg",
       "movieType": "Korean Drama",
       "language": "Hindi",
-      "createdAt": "2026-12-31T18:45:29.000Z",
-      "showOnHome": true
+      "createdAt": "2026-11-18T19:07:58.000Z",
+      "showOnHome": false
     },
     {
       "id": "video_1795028113481_328",
@@ -4625,8 +4625,8 @@
       "categoryIcon": "https://img.youtube.com/vi/yvDPMEN7jOI/maxresdefault.jpg",
       "movieType": "Korean Drama",
       "language": "Hindi",
-      "createdAt": "2026-11-18T18:40:27.000Z",
-      "showOnHome": false
+      "createdAt": "2027-04-08T18:40:27.000Z",
+      "showOnHome": true
     },
     {
       "id": "video_1795028034976_26",
